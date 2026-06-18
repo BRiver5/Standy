@@ -1,0 +1,31 @@
+App name: Standy: Break & Posture Reminders
+package name: com.standy.app
+privacy policy: create it yourself using free privacy policy generator (Nigeria country)
+data safety: NOTHING
+category: HEALTH_AND_FITNESS
+tags: HEALTH_AND_FITNESS
+rating: 3+
+
+Short description: Gentle break reminders for water, posture, eyes and stretches. Offline, no signup.
+Long description:
+
+Standy got your back. Literally. It nudges you to take healthy micro-breaks while you work at a desk - without accounts, ads or subscriptions.
+
+Set how often you want a nudge and Standy rotates through stand-up, drink-water, eye-rest and posture-check reminders. When one fires you can mark it Done, Snooze it, or Skip. Open a short guided stretch with an animated countdown, then track your progress: a daily goal ring, completed-vs-skipped bars, a streak counter and a GitHub-style activity heatmap.
+
+Everything is stored locally on your device. No login. No email. No paywalls.
+
+- Customizable reminder interval with smart rotation
+- Stand up, drink water, eye rest and posture reminders
+- Quiet hours and on-demand Do Not Disturb
+- Exercise library with animated hold timers
+- Daily goal ring and today progress
+- Streaks, weekly bars and activity heatmap
+- Optional name and photo, no account needed
+- Works fully offline
+
+ALL COUNTRIES
+
+release notes:
+
+anything
